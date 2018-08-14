@@ -6,6 +6,6 @@ function paragraphSelector() {
 
 function lastImageSelector() {
   var images = document.getElementsByTagName("img");
-  console.log(images.length);
+  console.log(images.last());
   
 }
