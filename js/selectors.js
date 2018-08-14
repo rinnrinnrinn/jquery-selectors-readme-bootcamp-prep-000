@@ -6,4 +6,5 @@ function paragraphSelector() {
 
 function lastImageSelector() {
   var image = document.
+  
 }
