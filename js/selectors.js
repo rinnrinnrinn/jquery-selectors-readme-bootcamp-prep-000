@@ -9,3 +9,7 @@ function lastImageSelector() {
   return images;
 }
 
+function ninjaBabySelector() {
+  var ninja = $('#baby-ninja');
+  return ninja
+}
