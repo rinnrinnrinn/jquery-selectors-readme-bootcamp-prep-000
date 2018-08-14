@@ -15,10 +15,11 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  var classP = $('.pics')
+  var classP = $('.pics');
   return classP;
 }
 
 function firstListItem() {
-  var firstchild = 
+  var firstchild = $('parent-tag child-tag:first-child');
+  return firstchild;
 }
