@@ -3,3 +3,7 @@ function paragraphSelector() {
   var paragraph = document.getElementsByTagName("p");
   return paragraph;
 }
+
+function lastImageSelector() {
+  
+}
