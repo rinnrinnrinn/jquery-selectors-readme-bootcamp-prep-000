@@ -5,6 +5,7 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
-  var image = document.
+  var image = document.getElementsByTagName("img").last();
+  return image;
   
 }
