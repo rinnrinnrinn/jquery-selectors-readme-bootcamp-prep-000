@@ -14,4 +14,6 @@ function ninjaBabySelector() {
   return ninja;
 }
 
-function 
+function divSelector() {
+  var class = 
+}
