@@ -2,4 +2,4 @@
 $(function paragraphSelector() {
   $('paragraphs')
   return 'paragraphs'
-)$}
+)}
