@@ -5,7 +5,7 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
-  var image = document.getElementsByTagName("img");
-  console.log(image);
+  var images = document.getElementsByTagName("img");
+  console.log(images.length);
   
 }
