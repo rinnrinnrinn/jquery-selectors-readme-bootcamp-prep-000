@@ -15,5 +15,10 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  var class = 
+  var classP = $('.pics')
+  return classP;
+}
+
+function firstListItem() {
+  var firstchild = 
 }
