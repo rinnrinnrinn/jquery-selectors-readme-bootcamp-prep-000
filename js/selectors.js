@@ -1,3 +1,5 @@
 // declare your functions here...
-$(function paragraphSelector() {
-  
+function paragraphSelector() {
+  var paragraph = document.getElementsByTagName(p);
+  return paragraph;
+}
