@@ -5,6 +5,6 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
-  var images = element.querySelector()
+  var images = element.querySelector("img").last
   
 }
